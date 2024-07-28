@@ -45,3 +45,22 @@ input{
 .photo{
     text-align: center;
 }
+
+.pictures:hover{
+    background-color: black;
+    color: white;
+}
+.about{
+    padding: 10px;
+    margin-top: 50px;
+}
+h2{
+    text-align: center;
+}
+.contact{
+    background-color: rgb(245, 180, 207);
+    color: rgb(106, 57, 57);
+}
+.details{
+    text-align: center;
+}
